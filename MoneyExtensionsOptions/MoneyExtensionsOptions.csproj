@@ -15,7 +15,6 @@
 		<RepositoryUrl>https://github.com/edsoncesarDev/money-extension</RepositoryUrl>
 		<PackageProjectUrl>https://github.com/edsoncesarDev/money-extension</PackageProjectUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageIcon>icon.png</PackageIcon>
 		<PackageTags>Money;int;decimal;converter</PackageTags>
 		<Title>MoneyExtensions_rasec</Title>
 		<Summary>Extension to convert decimal to integer</Summary>
