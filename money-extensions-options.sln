@@ -7,13 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtensionsOptions", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtensionsOptions.tests", "MoneyExtensionsOptions.tests\MoneyExtensionsOptions.tests.csproj", "{B97734C7-C407-4E85-95DC-112E079BEA37}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{8492A3F7-3203-4B74-83C3-A715B2F5C725}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{5C67C945-9FD5-4E9C-801B-778B2B8F8E77}"
-	ProjectSection(SolutionItems) = preProject
-		main.yml = main.yml
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,8 +24,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{5C67C945-9FD5-4E9C-801B-778B2B8F8E77} = {8492A3F7-3203-4B74-83C3-A715B2F5C725}
 	EndGlobalSection
 EndGlobal
