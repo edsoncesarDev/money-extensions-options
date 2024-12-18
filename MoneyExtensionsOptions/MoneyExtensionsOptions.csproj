@@ -5,7 +5,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 
-		<PackageId>MoneyExtensions_rasec</PackageId>
+		<PackageId>MoneyExtensionsOptions</PackageId>
 		<Version>1.0.0</Version>
 		<Licence>MIT</Licence>
 		<Authors>edson</Authors>
@@ -16,7 +16,7 @@
 		<PackageProjectUrl>https://github.com/edsoncesarDev/money-extension</PackageProjectUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageTags>Money;int;decimal;converter</PackageTags>
-		<Title>MoneyExtensions_rasec</Title>
+		<Title>MoneyExtensionsOptions</Title>
 		<Summary>Extension to convert decimal to integer</Summary>
 	</PropertyGroup>
 	
